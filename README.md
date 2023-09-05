@@ -155,7 +155,7 @@ visualização forma mais completa o codigo distribuido para master.
 
 [Coveralls Google Faker](https://coveralls.io/github/hyankelwin/google-faker)
 
-[Image](https://drive.google.com/file/d/1DYQKa9Du3a-9gp5Y29vNwg8LkrlZCYyk/view?usp=sharing)
+[Image](https://drive.google.com/file/d/1BvWKMD8GL4Dc7-qCAS00VLQHwc9awR6X/view?usp=sharing)
 
 💡 Esta imagem foi inserida acima para caso houver algum problema com acesso ao
 coveralls
