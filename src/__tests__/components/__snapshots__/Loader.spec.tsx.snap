@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader component should be able to passed in all tests on index.tsx should be able to render Loader component with success 1`] = `
+"<Loader>
+  <styled.div>
+    <div className=\\"sc-aXZVg gJdRzT\\">
+      <Skeleton count={1} height={20} width=\\"30%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={30} width=\\"60%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={20} width=\\"90%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg gJdRzT\\">
+      <Skeleton count={1} height={20} width=\\"30%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={30} width=\\"60%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={20} width=\\"90%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg gJdRzT\\">
+      <Skeleton count={1} height={20} width=\\"30%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={30} width=\\"60%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={20} width=\\"90%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg gJdRzT\\">
+      <Skeleton count={1} height={20} width=\\"30%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={30} width=\\"60%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={20} width=\\"90%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg gJdRzT\\">
+      <Skeleton count={1} height={20} width=\\"30%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={30} width=\\"60%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={20} width=\\"90%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg gJdRzT\\">
+      <Skeleton count={1} height={20} width=\\"30%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={30} width=\\"60%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+      <Skeleton count={1} height={20} width=\\"90%\\">
+        <span className={[undefined]} data-testid={[undefined]} aria-live=\\"polite\\" aria-busy={true}>
+          <span className=\\"react-loading-skeleton\\" style={{...}}>
+            ‌
+          </span>
+          <br />
+        </span>
+      </Skeleton>
+    </div>
+  </styled.div>
+</Loader>"
+`;

@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem component should be able to passed in all tests on index.tsx should be able to render ListItem component with success 1`] = `
+"<ListItem data={{...}} onClickItem={[Function: mockConstructor] { _isMockFunction: true, getMockImplementation: [Function (anonymous)], mock: Object [Object: null prototype] { calls: [], instances: [], invocationCallOrder: [], results: [] }, mockClear: [Function (anonymous)], mockReset: [Function (anonymous)], mockRestore: [Function (anonymous)], mockReturnValueOnce: [Function (anonymous)], mockResolvedValueOnce: [Function (anonymous)], mockRejectedValueOnce: [Function (anonymous)], mockReturnValue: [Function (anonymous)], mockResolvedValue: [Function (anonymous)], mockRejectedValue: [Function (anonymous)], mockImplementationOnce: [Function (anonymous)], mockImplementation: [Function (anonymous)], mockReturnThis: [Function (anonymous)], mockName: [Function (anonymous)], getMockName: [Function (anonymous)] }}>
+  <styled.div>
+    <div className=\\"sc-aXZVg iXJuVZ\\">
+      <styled.p>
+        <p className=\\"sc-gEvEer hyArYH\\">
+          http://google.com.br
+        </p>
+      </styled.p>
+      <styled.h3 data-testid=\\"title-list\\" onClick={[Function: onClick]}>
+        <h3 data-testid=\\"title-list\\" onClick={[Function: onClick]} className=\\"sc-eqUAAy dmkfev\\">
+          Siamês
+        </h3>
+      </styled.h3>
+      <styled.p>
+        <p className=\\"sc-fqkvVR cdqkYV\\">
+          This cat is the most beautiful than all cats
+        </p>
+      </styled.p>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg iXJuVZ\\">
+      <styled.p>
+        <p className=\\"sc-gEvEer hyArYH\\">
+          http://youtube.com.br
+        </p>
+      </styled.p>
+      <styled.h3 data-testid=\\"title-list\\" onClick={[Function: onClick]}>
+        <h3 data-testid=\\"title-list\\" onClick={[Function: onClick]} className=\\"sc-eqUAAy dmkfev\\">
+          Maine Coon
+        </h3>
+      </styled.h3>
+      <styled.p>
+        <p className=\\"sc-fqkvVR cdqkYV\\">
+          This cat is more furry than others
+        </p>
+      </styled.p>
+    </div>
+  </styled.div>
+  <styled.div>
+    <div className=\\"sc-aXZVg iXJuVZ\\">
+      <styled.p>
+        <p className=\\"sc-gEvEer hyArYH\\">
+          http://uol.com.br
+        </p>
+      </styled.p>
+      <styled.h3 data-testid=\\"title-list\\" onClick={[Function: onClick]}>
+        <h3 data-testid=\\"title-list\\" onClick={[Function: onClick]} className=\\"sc-eqUAAy dmkfev\\">
+          Angorá
+        </h3>
+      </styled.h3>
+      <styled.p>
+        <p className=\\"sc-fqkvVR cdqkYV\\">
+          This cat is all white
+        </p>
+      </styled.p>
+    </div>
+  </styled.div>
+</ListItem>"
+`;

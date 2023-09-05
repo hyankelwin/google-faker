@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalSearch component should be able to passed in all tests on index.tsx should be able to render ModalSearch component with success 1`] = `
+"<ModalSearch data={{...}} isOpen={true} onCloseModal={[Function: mockConstructor] { _isMockFunction: true, getMockImplementation: [Function (anonymous)], mock: Object [Object: null prototype] { calls: [], instances: [], invocationCallOrder: [], results: [] }, mockClear: [Function (anonymous)], mockReset: [Function (anonymous)], mockRestore: [Function (anonymous)], mockReturnValueOnce: [Function (anonymous)], mockResolvedValueOnce: [Function (anonymous)], mockRejectedValueOnce: [Function (anonymous)], mockReturnValue: [Function (anonymous)], mockResolvedValue: [Function (anonymous)], mockRejectedValue: [Function (anonymous)], mockImplementationOnce: [Function (anonymous)], mockImplementation: [Function (anonymous)], mockReturnThis: [Function (anonymous)], mockName: [Function (anonymous)], getMockName: [Function (anonymous)] }}>
+  <Modal isOpen={true} ariaHideApp={false} portalClassName=\\"ReactModalPortal\\" bodyOpenClassName=\\"ReactModal__Body--open\\" role=\\"dialog\\" closeTimeoutMS={0} shouldFocusAfterRender={true} shouldCloseOnEsc={true} shouldCloseOnOverlayClick={true} shouldReturnFocusAfterClose={true} preventScroll={false} parentSelector={[Function: parentSelector]} overlayElement={[Function: overlayElement]} contentElement={[Function: contentElement]}>
+    <Portal containerInfo={{...}}>
+      <ModalPortal defaultStyles={{...}} isOpen={true} ariaHideApp={false} portalClassName=\\"ReactModalPortal\\" bodyOpenClassName=\\"ReactModal__Body--open\\" role=\\"dialog\\" closeTimeoutMS={0} shouldFocusAfterRender={true} shouldCloseOnEsc={true} shouldCloseOnOverlayClick={true} shouldReturnFocusAfterClose={true} preventScroll={false} parentSelector={[Function: parentSelector]} overlayElement={[Function: overlayElement]} contentElement={[Function: contentElement]} style={{...}}>
+        <div className=\\"ReactModal__Overlay\\" style={{...}} onClick={[Function (anonymous)]} onMouseDown={[Function (anonymous)]}>
+          <div id={[undefined]} style={{...}} className=\\"ReactModal__Content\\" tabIndex=\\"-1\\" onKeyDown={[Function (anonymous)]} onMouseDown={[Function (anonymous)]} onMouseUp={[Function (anonymous)]} onClick={[Function (anonymous)]} role=\\"dialog\\" aria-label={[undefined]} aria-modal={true} data-testid={[undefined]}>
+            <styled.div>
+              <div className=\\"sc-iGgWBj ezVNam\\">
+                <styled.img src=\\"logo-google.png\\" alt=\\"Image of google search\\">
+                  <img src=\\"logo-google.png\\" alt=\\"Image of google search\\" className=\\"sc-gsFSXq hjQCYz\\" />
+                </styled.img>
+                <IoClose data-testid=\\"icon-close-modal\\" onClick={[Function: onClick]} size={20}>
+                  <IconBase attr={{...}} data-testid=\\"icon-close-modal\\" onClick={[Function: onClick]} size={20}>
+                    <svg stroke=\\"currentColor\\" fill=\\"currentColor\\" strokeWidth=\\"0\\" viewBox=\\"0 0 512 512\\" data-testid=\\"icon-close-modal\\" onClick={[Function: onClick]} className={[undefined]} style={{...}} height={20} width={20} xmlns=\\"http://www.w3.org/2000/svg\\">
+                      <path d=\\"M289.94 256l95-95A24 24 0 00351 127l-95 95-95-95a24 24 0 00-34 34l95 95-95 95a24 24 0 1034 34l95-95 95 95a24 24 0 0034-34z\\" />
+                    </svg>
+                  </IconBase>
+                </IoClose>
+              </div>
+            </styled.div>
+            <styled.div>
+              <div className=\\"sc-aXZVg jRVSTR\\">
+                <styled.img src=\\"https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Gato-siames-INOVA-scaled.jpg\\">
+                  <img src=\\"https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Gato-siames-INOVA-scaled.jpg\\" className=\\"sc-dcJsrY kLFbiy\\" />
+                </styled.img>
+                <styled.p>
+                  <p className=\\"sc-gEvEer cAUUCC\\">
+                    http://google.com.br
+                  </p>
+                </styled.p>
+                <styled.h3>
+                  <h3 className=\\"sc-eqUAAy kVxYHK\\">
+                    Siamês
+                  </h3>
+                </styled.h3>
+                <styled.p>
+                  <p className=\\"sc-fqkvVR cdqkYV\\">
+                    This cat is the most beautiful than all cats
+                  </p>
+                </styled.p>
+              </div>
+            </styled.div>
+          </div>
+        </div>
+      </ModalPortal>
+    </Portal>
+  </Modal>
+</ModalSearch>"
+`;
