@@ -22,7 +22,7 @@ jobs:
           node-version: 14
 
       - name: Install dependencies
-        run: npm install -f
+        run: npm install --legacy-peer-deps
 
       - name: Check tests
         run: npm run test:coverage
