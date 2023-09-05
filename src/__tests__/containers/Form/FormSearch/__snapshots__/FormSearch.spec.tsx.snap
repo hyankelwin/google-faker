@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormSearch container should be able to find on FormSearch container when page is home 1`] = `
+<DocumentFragment>
+  <form>
+    <div
+      class="sc-aXZVg jGGoBE"
+    >
+      <div
+        class="sc-eqUAAy kzGVwk"
+      >
+        <svg
+          fill="none"
+          height="20"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="11"
+            cy="11"
+            r="8"
+          />
+          <line
+            x1="21"
+            x2="16.65"
+            y1="21"
+            y2="16.65"
+          />
+        </svg>
+        <input
+          data-testid="input-search"
+          value=""
+        />
+      </div>
+      <div
+        class="sc-gEvEer gYDKcr"
+      >
+        <button
+          class="sc-fqkvVR fJaxrU"
+          color="rgba(0,0,0,0.87)"
+          data-testid="button-submit"
+          type="submit"
+        >
+          Buscar
+        </button>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`FormSearch container should be able to find on FormSearch container with success 1`] = `
+<DocumentFragment>
+  <form>
+    <div
+      class="sc-aXZVg jGGoBE"
+    >
+      <div
+        class="sc-eqUAAy kzGVwk"
+      >
+        <svg
+          fill="none"
+          height="20"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="11"
+            cy="11"
+            r="8"
+          />
+          <line
+            x1="21"
+            x2="16.65"
+            y1="21"
+            y2="16.65"
+          />
+        </svg>
+        <input
+          data-testid="input-search"
+          value=""
+        />
+      </div>
+      <div
+        class="sc-gEvEer gYDKcr"
+      >
+        <button
+          class="sc-fqkvVR fJaxrU"
+          color="rgba(0,0,0,0.87)"
+          data-testid="button-submit"
+          type="submit"
+        >
+          Buscar
+        </button>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`FormSearch container should be able to simulate click on FormSearch container 1`] = `
+<DocumentFragment>
+  <form>
+    <div
+      class="sc-aXZVg jGGoBE"
+    >
+      <div
+        class="sc-eqUAAy kzGVwk"
+      >
+        <svg
+          fill="none"
+          height="20"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="11"
+            cy="11"
+            r="8"
+          />
+          <line
+            x1="21"
+            x2="16.65"
+            y1="21"
+            y2="16.65"
+          />
+        </svg>
+        <input
+          data-testid="input-search"
+          value=""
+        />
+        <svg
+          data-testid="icon-fix"
+          fill="none"
+          height="20"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <line
+            x1="18"
+            x2="6"
+            y1="6"
+            y2="18"
+          />
+          <line
+            x1="6"
+            x2="18"
+            y1="6"
+            y2="18"
+          />
+        </svg>
+      </div>
+      <div
+        class="sc-gEvEer gYDKcr"
+      >
+        <button
+          class="sc-fqkvVR fJaxrU"
+          color="rgba(0,0,0,0.87)"
+          data-testid="button-submit"
+          type="submit"
+        >
+          Buscar
+        </button>
+      </div>
+    </div>
+  </form>
+</DocumentFragment>
+`;
