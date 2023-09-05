@@ -143,7 +143,7 @@ $ npm test:coverage
 O Google Faker também disponivel na web, para encontra-lo basta acessar o seguinte
 endereço na web:
 
-[Site Google Faker]([https://web-google-faker.herokuapp.com/](https://google-faker-369cc083da15.herokuapp.com/))
+[Site Google Faker](https://google-faker-369cc083da15.herokuapp.com/)
 
 ---
 
