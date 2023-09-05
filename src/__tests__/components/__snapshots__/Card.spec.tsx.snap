@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component should be able to passed in all tests on index.tsx should be able to render Card component with success 1`] = `
+"<Card item={{...}}>
+  <styled.div>
+    <div className=\\"sc-aXZVg hwnWVx\\">
+      <styled.img src=\\"https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Gato-siames-INOVA-scaled.jpg\\">
+        <img src=\\"https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Gato-siames-INOVA-scaled.jpg\\" className=\\"sc-dcJsrY kLFbiy\\" />
+      </styled.img>
+      <styled.p>
+        <p className=\\"sc-gEvEer cAUUCC\\">
+          http://google.com.br
+        </p>
+      </styled.p>
+      <styled.h3>
+        <h3 className=\\"sc-eqUAAy kVxYHK\\">
+          Siamês
+        </h3>
+      </styled.h3>
+      <styled.p>
+        <p className=\\"sc-fqkvVR cdqkYV\\">
+          This cat is the most beautiful than all cats
+        </p>
+      </styled.p>
+    </div>
+  </styled.div>
+</Card>"
+`;
