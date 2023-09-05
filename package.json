@@ -41,7 +41,7 @@
     "test:coverage": "react-scripts test --watchAll=false --coverage",
     "lint": "eslint src --ext ts,tsx",
     "coveralls": "cat ./coverage/lcov.info | coveralls",
-    "deploy:heroku": "git push heroku master",
+    "deploy:heroku": "git push heroku main",
     "prepare": "husky install"
   },
   "eslintConfig": {
