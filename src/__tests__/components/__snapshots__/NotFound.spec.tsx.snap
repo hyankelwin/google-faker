@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFoundSearch component should be able to passed in all tests on index.tsx should be able to render NotFoundSearch component with success 1`] = `
+"<NotFoundSearch value=\\"dog\\">
+  <styled.div>
+    <div className=\\"sc-aXZVg iOvnNW\\">
+      <p>
+        No results found for 
+        <b>
+          &#39;dog&#39;.
+        </b>
+      </p>
+      <p>
+        Try looking for: 
+        <span>
+          bear
+          , 
+        </span>
+        <span>
+          bird
+          , 
+        </span>
+        <span>
+          cat
+          , 
+        </span>
+        <span>
+          cetacean
+          , 
+        </span>
+        <span>
+          cow
+          , 
+        </span>
+        <span>
+          crocodilia
+          , 
+        </span>
+        <span>
+          dog
+          , 
+        </span>
+        <span>
+          fish
+          , 
+        </span>
+        <span>
+          horse
+          , 
+        </span>
+        <span>
+          insect
+          , 
+        </span>
+        <span>
+          lion
+          , 
+        </span>
+        <span>
+          rabbit
+          , 
+        </span>
+        <span>
+          rodent
+          , 
+        </span>
+        <span>
+          snake
+          , 
+        </span>
+      </p>
+    </div>
+  </styled.div>
+</NotFoundSearch>"
+`;
