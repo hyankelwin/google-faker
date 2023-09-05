@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component should be able to render Button component with success 1`] = `
+"<Button color=\\"#FFFFFF\\" background=\\"#fff\\">
+  <styled.button type=\\"button\\" color=\\"#FFFFFF\\" background=\\"#fff\\">
+    <button type=\\"button\\" color=\\"#FFFFFF\\" className=\\"sc-aXZVg csBrMP\\" />
+  </styled.button>
+</Button>"
+`;
+
+exports[`Button component should be able to render Button when is disabled 1`] = `
+"<Button color=\\"#FFFFFF\\" disabled={true} background=\\"#fff\\">
+  <styled.button type=\\"button\\" color=\\"#FFFFFF\\" background=\\"#fff\\" disabled={true}>
+    <button type=\\"button\\" color=\\"#FFFFFF\\" disabled={true} className=\\"sc-aXZVg hHkgAc\\" />
+  </styled.button>
+</Button>"
+`;
