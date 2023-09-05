@@ -1,0 +1,1316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search page should be able to render on Error when error is true 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jEACwC eDYLkL"
+  >
+    <div
+      class="sc-dcJsrY rCtMV"
+    >
+      <div>
+        <div>
+          <img
+            alt="Image of google search"
+            class="sc-iGgWBj cKVFDH"
+            data-testid="google-image"
+            src="logo-google.png"
+          />
+          <form>
+            <div
+              class="sc-dhKdcB eEiGWA"
+            >
+              <div
+                class="sc-dAlyuH eDVFaq"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="11"
+                    cy="11"
+                    r="8"
+                  />
+                  <line
+                    x1="21"
+                    x2="16.65"
+                    y1="21"
+                    y2="16.65"
+                  />
+                </svg>
+                <input
+                  data-testid="input-search"
+                  value="cat"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsFSXq jpLDzM"
+        >
+          <svg
+            data-testid="options-icon"
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M388.8 896.4v-27.198c.6-2.2 1.6-4.2 2-6.4 8.8-57.2 56.4-102.4 112.199-106.2 62.4-4.4 115.2 31.199 132.4 89.199 2.2 7.6 3.8 15.6 5.8 23.4v27.2c-.6 1.8-1.6 3.399-1.8 5.399-8.6 52.8-46.6 93-98.6 104.4-4 .8-8 2-12 3h-27.2c-1.8-.6-3.6-1.6-5.4-1.8-52-8.4-91.599-45.4-103.6-96.8-1.2-5-2.6-9.6-3.8-14.2zm252.4-768.797l-.001 27.202c-.6 2.2-1.6 4.2-1.8 6.4-9 57.6-56.8 102.6-113.2 106.2-62.2 4-114.8-32-131.8-90.2-2.2-7.401-3.8-15-5.6-22.401v-27.2c.6-1.8 1.6-3.4 2-5.2 9.6-52 39.8-86 90.2-102.2 6.6-2.2 13.6-3.4 20.4-5.2h27.2c1.8.6 3.6 1.6 5.4 1.8 52.2 8.6 91.6 45.4 103.6 96.8 1.201 4.8 2.401 9.4 3.601 13.999zm-.001 370.801v27.2c-.6 2.2-1.6 4.2-2 6.4-9 57.4-58.6 103.6-114.6 106-63 2.8-116.4-35.2-131.4-93.8-1.6-6.2-3-12.4-4.4-18.6v-27.2c.6-2.2 1.6-4.2 2-6.4 8.8-57.4 58.6-103.601 114.6-106.2 63-3 116.4 35.2 131.4 93.8 1.6 6.4 3 12.6 4.4 18.8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-kAyceB hvybWR"
+        >
+          <svg
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M104 160a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 312a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 464a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56z"
+            />
+          </svg>
+          <img
+            alt="Image to simulate user logged"
+            class="sc-jXbUNg gYzUtN"
+            src="user.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-cwHptR cJYmMf"
+    >
+      <div
+        class="sc-gEvEer dbBHJr"
+      >
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+        <div
+          class="sc-eqUAAy giEXpz"
+        >
+          <div
+            class="sc-hzhJZQ jpAEUT"
+          >
+            <p>
+              No results found for 
+              <b>
+                'cat'.
+              </b>
+            </p>
+            <p>
+              Try looking for: 
+              <span>
+                bear, 
+              </span>
+              <span>
+                bird, 
+              </span>
+              <span>
+                cat, 
+              </span>
+              <span>
+                cetacean, 
+              </span>
+              <span>
+                cow, 
+              </span>
+              <span>
+                crocodilia, 
+              </span>
+              <span>
+                dog, 
+              </span>
+              <span>
+                fish, 
+              </span>
+              <span>
+                horse, 
+              </span>
+              <span>
+                insect, 
+              </span>
+              <span>
+                lion, 
+              </span>
+              <span>
+                rabbit, 
+              </span>
+              <span>
+                rodent, 
+              </span>
+              <span>
+                snake, 
+              </span>
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cPiKLX fMDMuz"
+    >
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 0.1.0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Search page should be able to render on Loading when isLoading is true 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jEACwC eDYLkL"
+  >
+    <div
+      class="sc-dcJsrY rCtMV"
+    >
+      <div>
+        <div>
+          <img
+            alt="Image of google search"
+            class="sc-iGgWBj cKVFDH"
+            data-testid="google-image"
+            src="logo-google.png"
+          />
+          <form>
+            <div
+              class="sc-dhKdcB eEiGWA"
+            >
+              <div
+                class="sc-dAlyuH eDVFaq"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="11"
+                    cy="11"
+                    r="8"
+                  />
+                  <line
+                    x1="21"
+                    x2="16.65"
+                    y1="21"
+                    y2="16.65"
+                  />
+                </svg>
+                <input
+                  data-testid="input-search"
+                  value="cat"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsFSXq jpLDzM"
+        >
+          <svg
+            data-testid="options-icon"
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M388.8 896.4v-27.198c.6-2.2 1.6-4.2 2-6.4 8.8-57.2 56.4-102.4 112.199-106.2 62.4-4.4 115.2 31.199 132.4 89.199 2.2 7.6 3.8 15.6 5.8 23.4v27.2c-.6 1.8-1.6 3.399-1.8 5.399-8.6 52.8-46.6 93-98.6 104.4-4 .8-8 2-12 3h-27.2c-1.8-.6-3.6-1.6-5.4-1.8-52-8.4-91.599-45.4-103.6-96.8-1.2-5-2.6-9.6-3.8-14.2zm252.4-768.797l-.001 27.202c-.6 2.2-1.6 4.2-1.8 6.4-9 57.6-56.8 102.6-113.2 106.2-62.2 4-114.8-32-131.8-90.2-2.2-7.401-3.8-15-5.6-22.401v-27.2c.6-1.8 1.6-3.4 2-5.2 9.6-52 39.8-86 90.2-102.2 6.6-2.2 13.6-3.4 20.4-5.2h27.2c1.8.6 3.6 1.6 5.4 1.8 52.2 8.6 91.6 45.4 103.6 96.8 1.201 4.8 2.401 9.4 3.601 13.999zm-.001 370.801v27.2c-.6 2.2-1.6 4.2-2 6.4-9 57.4-58.6 103.6-114.6 106-63 2.8-116.4-35.2-131.4-93.8-1.6-6.2-3-12.4-4.4-18.6v-27.2c.6-2.2 1.6-4.2 2-6.4 8.8-57.4 58.6-103.601 114.6-106.2 63-3 116.4 35.2 131.4 93.8 1.6 6.4 3 12.6 4.4 18.8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-kAyceB hvybWR"
+        >
+          <svg
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M104 160a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 312a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 464a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56z"
+            />
+          </svg>
+          <img
+            alt="Image to simulate user logged"
+            class="sc-jXbUNg gYzUtN"
+            src="user.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-cwHptR cJYmMf"
+    >
+      <div
+        class="sc-gEvEer dbBHJr"
+      >
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+        <div
+          class="sc-eqUAAy giEXpz"
+        >
+          <div
+            class="sc-aXZVg gJdRzT"
+          >
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 30%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 60%; height: 30px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 90%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+          </div>
+          <div
+            class="sc-aXZVg gJdRzT"
+          >
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 30%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 60%; height: 30px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 90%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+          </div>
+          <div
+            class="sc-aXZVg gJdRzT"
+          >
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 30%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 60%; height: 30px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 90%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+          </div>
+          <div
+            class="sc-aXZVg gJdRzT"
+          >
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 30%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 60%; height: 30px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 90%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+          </div>
+          <div
+            class="sc-aXZVg gJdRzT"
+          >
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 30%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 60%; height: 30px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 90%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+          </div>
+          <div
+            class="sc-aXZVg gJdRzT"
+          >
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 30%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 60%; height: 30px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+            <span
+              aria-busy="true"
+              aria-live="polite"
+            >
+              <span
+                class="react-loading-skeleton"
+                style="width: 90%; height: 20px;"
+              >
+                ‌
+              </span>
+              <br />
+            </span>
+          </div>
+        </div>
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cPiKLX fwYCxn"
+    >
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 0.1.0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Search page should be able to render on Search page with success 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jEACwC eDYLkL"
+  >
+    <div
+      class="sc-dcJsrY rCtMV"
+    >
+      <div>
+        <div>
+          <img
+            alt="Image of google search"
+            class="sc-iGgWBj cKVFDH"
+            data-testid="google-image"
+            src="logo-google.png"
+          />
+          <form>
+            <div
+              class="sc-dhKdcB eEiGWA"
+            >
+              <div
+                class="sc-dAlyuH eDVFaq"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="11"
+                    cy="11"
+                    r="8"
+                  />
+                  <line
+                    x1="21"
+                    x2="16.65"
+                    y1="21"
+                    y2="16.65"
+                  />
+                </svg>
+                <input
+                  data-testid="input-search"
+                  value="cat"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsFSXq jpLDzM"
+        >
+          <svg
+            data-testid="options-icon"
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M388.8 896.4v-27.198c.6-2.2 1.6-4.2 2-6.4 8.8-57.2 56.4-102.4 112.199-106.2 62.4-4.4 115.2 31.199 132.4 89.199 2.2 7.6 3.8 15.6 5.8 23.4v27.2c-.6 1.8-1.6 3.399-1.8 5.399-8.6 52.8-46.6 93-98.6 104.4-4 .8-8 2-12 3h-27.2c-1.8-.6-3.6-1.6-5.4-1.8-52-8.4-91.599-45.4-103.6-96.8-1.2-5-2.6-9.6-3.8-14.2zm252.4-768.797l-.001 27.202c-.6 2.2-1.6 4.2-1.8 6.4-9 57.6-56.8 102.6-113.2 106.2-62.2 4-114.8-32-131.8-90.2-2.2-7.401-3.8-15-5.6-22.401v-27.2c.6-1.8 1.6-3.4 2-5.2 9.6-52 39.8-86 90.2-102.2 6.6-2.2 13.6-3.4 20.4-5.2h27.2c1.8.6 3.6 1.6 5.4 1.8 52.2 8.6 91.6 45.4 103.6 96.8 1.201 4.8 2.401 9.4 3.601 13.999zm-.001 370.801v27.2c-.6 2.2-1.6 4.2-2 6.4-9 57.4-58.6 103.6-114.6 106-63 2.8-116.4-35.2-131.4-93.8-1.6-6.2-3-12.4-4.4-18.6v-27.2c.6-2.2 1.6-4.2 2-6.4 8.8-57.4 58.6-103.601 114.6-106.2 63-3 116.4 35.2 131.4 93.8 1.6 6.4 3 12.6 4.4 18.8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-kAyceB hvybWR"
+        >
+          <svg
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M104 160a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 312a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 464a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56z"
+            />
+          </svg>
+          <img
+            alt="Image to simulate user logged"
+            class="sc-jXbUNg gYzUtN"
+            src="user.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-cwHptR cJYmMf"
+    >
+      <div
+        class="sc-gEvEer dbBHJr"
+      >
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+        <div
+          class="sc-eqUAAy giEXpz"
+        >
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://google.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Siamês
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is the most beautiful than all cats
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://youtube.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Maine Coon
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is more furry than others
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://uol.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Angorá
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is all white
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-eqUAAy iyCBLs"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cPiKLX fwYCxn"
+    >
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 0.1.0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Search page should be able to simulate click close modal options on Search page with success 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jEACwC eDYLkL"
+  >
+    <div
+      class="sc-dcJsrY rCtMV"
+    >
+      <div>
+        <div>
+          <img
+            alt="Image of google search"
+            class="sc-iGgWBj cKVFDH"
+            data-testid="google-image"
+            src="logo-google.png"
+          />
+          <form>
+            <div
+              class="sc-dhKdcB eEiGWA"
+            >
+              <div
+                class="sc-dAlyuH eDVFaq"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="11"
+                    cy="11"
+                    r="8"
+                  />
+                  <line
+                    x1="21"
+                    x2="16.65"
+                    y1="21"
+                    y2="16.65"
+                  />
+                </svg>
+                <input
+                  data-testid="input-search"
+                  value="cat"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsFSXq jpLDzM"
+        >
+          <svg
+            data-testid="options-icon"
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M388.8 896.4v-27.198c.6-2.2 1.6-4.2 2-6.4 8.8-57.2 56.4-102.4 112.199-106.2 62.4-4.4 115.2 31.199 132.4 89.199 2.2 7.6 3.8 15.6 5.8 23.4v27.2c-.6 1.8-1.6 3.399-1.8 5.399-8.6 52.8-46.6 93-98.6 104.4-4 .8-8 2-12 3h-27.2c-1.8-.6-3.6-1.6-5.4-1.8-52-8.4-91.599-45.4-103.6-96.8-1.2-5-2.6-9.6-3.8-14.2zm252.4-768.797l-.001 27.202c-.6 2.2-1.6 4.2-1.8 6.4-9 57.6-56.8 102.6-113.2 106.2-62.2 4-114.8-32-131.8-90.2-2.2-7.401-3.8-15-5.6-22.401v-27.2c.6-1.8 1.6-3.4 2-5.2 9.6-52 39.8-86 90.2-102.2 6.6-2.2 13.6-3.4 20.4-5.2h27.2c1.8.6 3.6 1.6 5.4 1.8 52.2 8.6 91.6 45.4 103.6 96.8 1.201 4.8 2.401 9.4 3.601 13.999zm-.001 370.801v27.2c-.6 2.2-1.6 4.2-2 6.4-9 57.4-58.6 103.6-114.6 106-63 2.8-116.4-35.2-131.4-93.8-1.6-6.2-3-12.4-4.4-18.6v-27.2c.6-2.2 1.6-4.2 2-6.4 8.8-57.4 58.6-103.601 114.6-106.2 63-3 116.4 35.2 131.4 93.8 1.6 6.4 3 12.6 4.4 18.8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-kAyceB hvybWR"
+        >
+          <svg
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M104 160a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 312a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 464a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56z"
+            />
+          </svg>
+          <img
+            alt="Image to simulate user logged"
+            class="sc-jXbUNg gYzUtN"
+            src="user.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-cwHptR cJYmMf"
+    >
+      <div
+        class="sc-gEvEer dbBHJr"
+      >
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+        <div
+          class="sc-eqUAAy giEXpz"
+        >
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://google.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Siamês
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is the most beautiful than all cats
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://youtube.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Maine Coon
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is more furry than others
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://uol.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Angorá
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is all white
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-eqUAAy iyCBLs"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cPiKLX fwYCxn"
+    >
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 0.1.0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Search page should be able to simulate click close modal search on Search page with success 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jEACwC eDYLkL"
+  >
+    <div
+      class="sc-dcJsrY rCtMV"
+    >
+      <div>
+        <div>
+          <img
+            alt="Image of google search"
+            class="sc-iGgWBj cKVFDH"
+            data-testid="google-image"
+            src="logo-google.png"
+          />
+          <form>
+            <div
+              class="sc-dhKdcB eEiGWA"
+            >
+              <div
+                class="sc-dAlyuH eDVFaq"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="11"
+                    cy="11"
+                    r="8"
+                  />
+                  <line
+                    x1="21"
+                    x2="16.65"
+                    y1="21"
+                    y2="16.65"
+                  />
+                </svg>
+                <input
+                  data-testid="input-search"
+                  value="cat"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsFSXq jpLDzM"
+        >
+          <svg
+            data-testid="options-icon"
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M388.8 896.4v-27.198c.6-2.2 1.6-4.2 2-6.4 8.8-57.2 56.4-102.4 112.199-106.2 62.4-4.4 115.2 31.199 132.4 89.199 2.2 7.6 3.8 15.6 5.8 23.4v27.2c-.6 1.8-1.6 3.399-1.8 5.399-8.6 52.8-46.6 93-98.6 104.4-4 .8-8 2-12 3h-27.2c-1.8-.6-3.6-1.6-5.4-1.8-52-8.4-91.599-45.4-103.6-96.8-1.2-5-2.6-9.6-3.8-14.2zm252.4-768.797l-.001 27.202c-.6 2.2-1.6 4.2-1.8 6.4-9 57.6-56.8 102.6-113.2 106.2-62.2 4-114.8-32-131.8-90.2-2.2-7.401-3.8-15-5.6-22.401v-27.2c.6-1.8 1.6-3.4 2-5.2 9.6-52 39.8-86 90.2-102.2 6.6-2.2 13.6-3.4 20.4-5.2h27.2c1.8.6 3.6 1.6 5.4 1.8 52.2 8.6 91.6 45.4 103.6 96.8 1.201 4.8 2.401 9.4 3.601 13.999zm-.001 370.801v27.2c-.6 2.2-1.6 4.2-2 6.4-9 57.4-58.6 103.6-114.6 106-63 2.8-116.4-35.2-131.4-93.8-1.6-6.2-3-12.4-4.4-18.6v-27.2c.6-2.2 1.6-4.2 2-6.4 8.8-57.4 58.6-103.601 114.6-106.2 63-3 116.4 35.2 131.4 93.8 1.6 6.4 3 12.6 4.4 18.8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-kAyceB hvybWR"
+        >
+          <svg
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M104 160a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 312a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 464a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56z"
+            />
+          </svg>
+          <img
+            alt="Image to simulate user logged"
+            class="sc-jXbUNg gYzUtN"
+            src="user.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-cwHptR cJYmMf"
+    >
+      <div
+        class="sc-gEvEer dbBHJr"
+      >
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+        <div
+          class="sc-eqUAAy giEXpz"
+        >
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://google.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Siamês
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is the most beautiful than all cats
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://youtube.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Maine Coon
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is more furry than others
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://uol.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Angorá
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is all white
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-eqUAAy iyCBLs"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cPiKLX fwYCxn"
+    >
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 0.1.0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Search page should be able to simulate click list item component on Search page with success 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-jEACwC eDYLkL"
+  >
+    <div
+      class="sc-dcJsrY rCtMV"
+    >
+      <div>
+        <div>
+          <img
+            alt="Image of google search"
+            class="sc-iGgWBj cKVFDH"
+            data-testid="google-image"
+            src="logo-google.png"
+          />
+          <form>
+            <div
+              class="sc-dhKdcB eEiGWA"
+            >
+              <div
+                class="sc-dAlyuH eDVFaq"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="11"
+                    cy="11"
+                    r="8"
+                  />
+                  <line
+                    x1="21"
+                    x2="16.65"
+                    y1="21"
+                    y2="16.65"
+                  />
+                </svg>
+                <input
+                  data-testid="input-search"
+                  value="cat"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsFSXq jpLDzM"
+        >
+          <svg
+            data-testid="options-icon"
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 1024 1024"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M388.8 896.4v-27.198c.6-2.2 1.6-4.2 2-6.4 8.8-57.2 56.4-102.4 112.199-106.2 62.4-4.4 115.2 31.199 132.4 89.199 2.2 7.6 3.8 15.6 5.8 23.4v27.2c-.6 1.8-1.6 3.399-1.8 5.399-8.6 52.8-46.6 93-98.6 104.4-4 .8-8 2-12 3h-27.2c-1.8-.6-3.6-1.6-5.4-1.8-52-8.4-91.599-45.4-103.6-96.8-1.2-5-2.6-9.6-3.8-14.2zm252.4-768.797l-.001 27.202c-.6 2.2-1.6 4.2-1.8 6.4-9 57.6-56.8 102.6-113.2 106.2-62.2 4-114.8-32-131.8-90.2-2.2-7.401-3.8-15-5.6-22.401v-27.2c.6-1.8 1.6-3.4 2-5.2 9.6-52 39.8-86 90.2-102.2 6.6-2.2 13.6-3.4 20.4-5.2h27.2c1.8.6 3.6 1.6 5.4 1.8 52.2 8.6 91.6 45.4 103.6 96.8 1.201 4.8 2.401 9.4 3.601 13.999zm-.001 370.801v27.2c-.6 2.2-1.6 4.2-2 6.4-9 57.4-58.6 103.6-114.6 106-63 2.8-116.4-35.2-131.4-93.8-1.6-6.2-3-12.4-4.4-18.6v-27.2c.6-2.2 1.6-4.2 2-6.4 8.8-57.4 58.6-103.601 114.6-106.2 63-3 116.4 35.2 131.4 93.8 1.6 6.4 3 12.6 4.4 18.8z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-kAyceB hvybWR"
+        >
+          <svg
+            fill="currentColor"
+            height="20"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M104 160a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 312a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zM104 464a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56zm152 0a56 56 0 1156-56 56.06 56.06 0 01-56 56z"
+            />
+          </svg>
+          <img
+            alt="Image to simulate user logged"
+            class="sc-jXbUNg gYzUtN"
+            src="user.png"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-cwHptR cJYmMf"
+    >
+      <div
+        class="sc-gEvEer dbBHJr"
+      >
+        <div
+          class="sc-eqUAAy giEXpz"
+        />
+        <div
+          class="sc-eqUAAy giEXpz"
+        >
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://google.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Siamês
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is the most beautiful than all cats
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://youtube.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Maine Coon
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is more furry than others
+            </p>
+          </div>
+          <div
+            class="sc-ikkxIA cbOsra"
+          >
+            <p
+              class="sc-dAbbOL FAAEH"
+            >
+              http://uol.com.br
+            </p>
+            <h3
+              class="sc-feUZmu cQcURD"
+              data-testid="title-list"
+            >
+              Angorá
+            </h3>
+            <p
+              class="sc-fUnMCh iDLpvU"
+            >
+              This cat is all white
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-eqUAAy iyCBLs"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cPiKLX fwYCxn"
+    >
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 0.1.0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
