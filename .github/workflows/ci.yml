@@ -28,7 +28,7 @@ jobs:
         run: npm run test:coverage
 
       - name: Check linting
-        run: npm lint
+        run: npm run lint
 
       - name: Check commit message
         uses: wagoid/commitlint-github-action@v1
