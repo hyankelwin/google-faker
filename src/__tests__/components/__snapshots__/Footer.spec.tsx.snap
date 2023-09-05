@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component should be able to passed in all tests on index.tsx should be able to render Footer component when isError is false 1`] = `
+"<Footer page=\\"search\\" isError={false}>
+  <styled.div page=\\"search\\" isError={false}>
+    <div className=\\"sc-aXZVg VCsdY\\">
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 
+        0.1.0
+      </p>
+    </div>
+  </styled.div>
+</Footer>"
+`;
+
+exports[`Footer component should be able to passed in all tests on index.tsx should be able to render Footer component with success 1`] = `
+"<Footer page=\\"home\\">
+  <styled.div page=\\"home\\" isError={[undefined]}>
+    <div className=\\"sc-aXZVg isTNyU\\">
+      <p>
+        ©Google 2021
+      </p>
+      <p>
+        Version 
+        0.1.0
+      </p>
+    </div>
+  </styled.div>
+</Footer>"
+`;
